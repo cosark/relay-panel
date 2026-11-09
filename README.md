@@ -87,6 +87,10 @@ curl -fsSL https://raw.githubusercontent.com/MoeShinX/relay-panel/main/install.s
 
 📖 完整指南：**[docs/DEPLOYMENT.md](docs/DEPLOYMENT.md)**
 
+## ☁️ 一键部署
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Relay%20Panel/)
+
 ---
 
 ## 🏗️ 架构
